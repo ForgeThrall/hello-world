@@ -1,9 +1,3 @@
 # hello-world
 
-Welcome back, shake off the rust
-
-Delegate responsibility
-
-Try again
-
-and again
+commit one
